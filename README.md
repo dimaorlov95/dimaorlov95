@@ -52,7 +52,7 @@ _._
              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
          </a>
          <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-             <img src="./svg/sql-database-generic-svgrepo-com.svg" alt="sql" width="40" height="40"/> 
+             <img src="./svg/sql.svg" alt="sql" width="40" height="40"/>
          </a>
         </p>
     </div>
@@ -60,7 +60,7 @@ _._
         <h3>Frameworks :</h3>
         <p >
             <a href="https://www.cypress.io" target="_blank" rel="noreferrer" >
-                 <img src="./svg/Cypress_Logomark_Dark-Color.svg" alt="cypress" width="40" height="40"/> 
+                 <img src="./svg/cypress.svg" alt="cypress" width="40" height="40"/> 
             </a>
         </p>
     </div>
@@ -68,10 +68,10 @@ _._
         <h3>Operating systems :</h3>
         <p >
             <a href="https://www.microsoft.com/software-download/windows11" target="_blank" rel="noreferrer" >
-                 <img src="./svg/windows-applications-svgrepo-com.svg" alt="windows" width="40" height="40"/> 
+                 <img src="./svg/windows.svg" alt="windows" width="40" height="40"/> 
             </a> 
             <a href="https://www.apple.com/at/macos/sonoma/" target="_blank" rel="noreferrer"> 
-                <img src="./svg/macos-svgrepo-com.svg" alt="macos" width="40" height="40"/> 
+                <img src="./svg/macos.svg" alt="macos" width="40" height="40"/> 
             </a>
         </p>
     </div>
@@ -82,28 +82,28 @@ _._
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
             </a>  
             <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer"> 
-                <img src="./svg/postgresql-logo-svgrepo-com.svg" alt="postgres" width="40" height="40"/> 
+                <img src="./svg/psql.svg" alt="postgres" width="40" height="40"/> 
             </a>  
             <a href="https://www.selenium.dev/selenium-ide/" target="_blank" rel="noreferrer"> 
-                <img src="./svg/selenium-svgrepo-com.svg" alt="selenium" width="40" height="40"/> 
+                <img src="./svg/selenium.svg" alt="selenium" width="40" height="40"/> 
             </a>  
             <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-                <img src="./svg/postman-icon-svgrepo-com.svg" alt="postman" width="40" height="40"/> 
+                <img src="./svg/postman.svg" alt="postman" width="40" height="40"/> 
             </a>
             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-                <img src="./svg/vs-code-svgrepo-com.svg" alt="vscode" width="40" height="40"/> 
+                <img src="./svg/vscode.svg" alt="vscode" width="40" height="40"/> 
             </a>   
             <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-                <img src="./svg/microsoft-sql-server-logo-svgrepo-com.svg" alt="mssql" width="40" height="40"/> 
+                <img src="./svg/mssql.svg" alt="mssql" width="40" height="40"/> 
             </a>   
             <a href="https://test.testrail.io/index.php?/auth/login" target="_blank" rel="noreferrer"> 
-                <img src="./svg/TestRail Logo Square.svg" alt="testrail" width="40" height="40"/> 
+                <img src="./svg/testrail.svg" alt="testrail" width="40" height="40"/> 
             </a>  
             <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-                <img src="./svg/jira-svgrepo-com.svg" alt="jira" width="40" height="40"/> 
+                <img src="./svg/jira.svg" alt="jira" width="40" height="40"/> 
             </a>   
             <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
-                <img src="./svg/bitbucket-svgrepo-com.svg" alt="bitbucket" width="40" height="40"/> 
+                <img src="./svg/bitbucket.svg" alt="bitbucket" width="40" height="40"/> 
             </a> 
         </p>
     </div>
