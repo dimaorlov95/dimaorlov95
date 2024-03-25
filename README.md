@@ -13,7 +13,7 @@ _._
 <div class="hero-top-section"">
  <div class="hero-top-txt">
  <p>
- I have a 9 years experience as a manual software tester. Also I have a 3.5 years experience as Data transfer engineer.
+ I have a 10 years experience as a manual software tester. Also I have a 4+ years experience as Data transfer engineer.
  In my work experience I was involved in a bunch of projects like:
 </p>
  <ul>
