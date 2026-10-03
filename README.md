@@ -6,7 +6,7 @@ _._
 
 <div class="header-section" style="height:10%;width: 100%;" >
     <h2 >
-👋 Hello, I'm Dmytro Orlov, a 29 year-old Manual Quality Engineer. From Ukraine 🇺🇦
+👋 Hello, I'm Dmytro Orlov, Manual Quality Engineer. From Ukraine 🇺🇦
     </h2>
 </div>
 
